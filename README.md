@@ -36,9 +36,11 @@ Focus:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marimovDEV&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marimovDEV&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marimovDEV&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marimovDEV&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 ---
 
