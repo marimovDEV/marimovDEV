@@ -38,4 +38,5 @@ Project	Description
 🤖 Telegram Automation	Advanced automation architecture
 <div align="center">
 🚀 Building scalable systems with AI
-</div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:0f172a&height=120&section=footer"/> ```
+</div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:0f172a&height=120&section=footer"/> 
+```
