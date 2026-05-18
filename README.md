@@ -29,8 +29,7 @@ Focus:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,react,nextjs,ts,postgres,redis,docker,linux,git,github" />
-
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,react,nextjs,ts,postgres,redis,docker,linux,git,github&perline=6" />
 </div>
 
 ---
